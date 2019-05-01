@@ -1,6 +1,6 @@
 //Shows in the listing the address of the function with most functions called within its body.
 //@author Sam
-//@category Home.Miscellanea.Tests.Functions
+//@category Functions
 //@keybinding 
 //@menupath 
 //@toolbar
